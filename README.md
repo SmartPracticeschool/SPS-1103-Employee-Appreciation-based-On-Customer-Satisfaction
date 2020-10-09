@@ -12,7 +12,7 @@ This is file for the complete webpage which contain the form and the some introd
 #Credential_id.py
 This file is important first when we run the program we have to update the credential such as aws_access_key_id,aws_secret_access_id,aws_session_token regularly. Other wise does not able to recognise who is accessing the amazon services. 
 ## Final Ouput of the Web Page
-![](static/output1.jpg)
+![](static/output1.png)
 
 
 
