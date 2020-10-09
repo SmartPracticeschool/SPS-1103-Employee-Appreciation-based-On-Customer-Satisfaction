@@ -9,3 +9,9 @@ After that it store the data to the dynamodb and update the score the particular
 # Customer_feedback.html
 This is file for the complete webpage which contain the form and the some introduction about the project. And finally it display the employee score and the no of review for that employee all that will be displayed in the graphical representation. That will help us to easily identify. 
 
+#Credential_id.py
+This file is important first when we run the program we have to update the credential such as aws_access_key_id,aws_secret_access_id,aws_session_token regularly. Other wise does not able to recognise who is accessing the amazon services. 
+## Final Result
+
+
+
