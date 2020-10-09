@@ -1,0 +1,6 @@
+
+access_key_id = "ASIA3JO42EB6QETZZT6W"
+secret_access_key = "bLB/wyDih8eF7P6Tr0pVTG9GLfMvpHZkopdc6S2f"
+session_token = "FwoGZXIvYXdzEBQaDL7lKuBxp7rttqek2yLIAQ8/be3O8Ph+IYKDIX4OEarzNFjDWqIA5dtymam4hgEQ5JgEYhYUDoV91Gdg97h3dMNRN2lP7JrDFbgnXOgEybGns58QAE4B225N+nBJCC2sz4p9dcr87DlOpLqIM+rCDl1rcnQVNrV/mZ0HlwezCuStZTeVwJO8DbyzFbzi92cwGm08N8NZo56iJrfw6vNaAfET2ICd3YkFhIFZuujxXyLgmVVg7nmQvCM+wqiuop1tmFCFd7o+l2pzrTdKmFGMMckp8J5DLJmQKIWj//sFMi38w6L/wwtZPjQx9bZ/U8DUlaoPB2jHY7UEFG9sj4i9oUYGxPRzwyQmH51KsFY="
+region = "us-east-1"
+
