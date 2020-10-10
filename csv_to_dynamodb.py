@@ -1,7 +1,6 @@
 import boto3
 from credential_id import *
 
-
 db = boto3.resource('dynamodb',aws_access_key_id = access_key_id,aws_secret_access_key = secret_access_key,aws_session_token = session_token,region_name = region )
 
 items = [1,Samuel,he doesn't come in the time. I have been waiting for a long time.,Emp_001,Employee 1']
